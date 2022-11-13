@@ -37,7 +37,7 @@ This is a workshop focus on ZK Applications (a.k.a. Applied ZKP). Upon finishing
             TBD
         </td>
         <td>
-            TBD
+            <a href="./hello-zkp">hello-zkp</a>
         </td>
         </tr>    
 </table>
