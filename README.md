@@ -6,6 +6,11 @@ This is a workshop focus on ZK Applications (a.k.a. Applied ZKP). Upon finishing
 * knows about basic security principles of writing circuits
 * understand how to architect and deploy a zkDApp (on Ethereum or Ethereum L2)
 
+## Prerequisites 
+
+* Install [Circom 2.0](https://docs.circom.io/getting-started/installation/)
+* [things to know before start](https://learn.0xparc.org/materials/circom/prereq-materials/prereq-understanding/)
+
 ## Resources
 
 ### Circom 2 Tutorials
