@@ -20,4 +20,4 @@ This is a workshop focus on ZK Applications (a.k.a. Applied ZKP). Upon finishing
 * [zkrepl](https://zkrepl.dev/)
 
 ### Documentations
-* [Circom Documentation]()
+* [Circom Documentation](https://docs.circom.io)
