@@ -1,6 +1,10 @@
-# Circom-Bootcamp
+# Applied ZKP Workshop
 
-Circom Bootcamp for ZKP hackers.
+This is a workshop focus on ZK Applications (a.k.a. Applied ZKP). Upon finishing this workshop, you should:
+* understand the basic concept of ZKP
+* knows how to write a (maybe simple-ish) circuit in Circom
+* knows about basic security principles of writing circuits
+* understand how to architect and deploy a zkDApp (on Ethereum or Ethereum L2)
 
 ## Resources
 
