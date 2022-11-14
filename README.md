@@ -6,8 +6,6 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
 * know about basic security principles of writing circuits
 * understand how to architect and deploy a zkDApp (on Ethereum or Ethereum L2)
 
-Subscribe Applied ZKP Workshop [maillist](http://eepurl.com/idCu1P) 
-
 ## Prerequisites 
 
 * Install [Circom 2.0](https://docs.circom.io/getting-started/installation/)
