@@ -1,7 +1,7 @@
 # Applied ZKP Workshop
 
 Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k.a. Applied ZKP). Upon finishing this workshop, you should:
-* understand the basic concept of ZKP
+* understand the basic concepts of ZKP
 * know how to write a (maybe simple-ish) circuit in Circom
 * know about basic security principles of writing circuits
 * understand how to architect and deploy a zkDApp (on Ethereum or Ethereum L2)
@@ -56,6 +56,9 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
             <td>
                 TBD
             </td>
+            <td>
+                TBD
+            </td>
         </tr>
         <tr>
             <td>
@@ -66,6 +69,9 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
             </td>
             <td>
                 9:00 PM, Nov. 18 (New York Time)
+            </td>
+            <td>
+                TBD
             </td>
             <td>
                 TBD
@@ -90,6 +96,9 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
             <td>
                 TBD
             </td>
+            <td>
+                TBD
+            </td>
         </tr>
         <tr>
             <td>
@@ -100,6 +109,9 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
             </td>
             <td>
                 9:00 PM, Nov. 23 (New York Time)
+            </td>
+            <td>
+                TBD
             </td>
             <td>
                 TBD
