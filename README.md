@@ -1,6 +1,6 @@
 # Applied ZKP Workshop
 
-This is a workshop focus on ZK Applications (a.k.a. Applied ZKP). Upon finishing this workshop, you should:
+Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k.a. Applied ZKP). Upon finishing this workshop, you should:
 * understand the basic concept of ZKP
 * know how to write a (maybe simple-ish) circuit in Circom
 * know about basic security principles of writing circuits
@@ -21,24 +21,92 @@ This is a workshop focus on ZK Applications (a.k.a. Applied ZKP). Upon finishing
     <th> code </th>
     <tbody>
         <tr>
-        <td>
-            1. Intro to ZKP and Circom
-        </td>
-        <td>
-            Shumo Chu
-        </td>
-        <td>
-            9:00 PM, Nov 14 (New York Time)
-        </td>
-        <td>
-            TBD
-        </td>
-        <td>
-            TBD
-        </td>
-        <td>
-            <a href="./hello-zkp">hello-zkp</a>
-        </td>
+            <td>
+                1. Intro to ZKP and Circom
+            </td>
+            <td>
+                Shumo Chu
+            </td>
+            <td>
+                9:00 PM, Nov. 14 (New York Time)
+            </td>
+            <td>
+                TBD
+            </td>
+            <td>
+                TBD
+            </td>
+            <td>
+                <a href="./hello-zkp">hello-zkp</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                2. Circom Workshop #2
+            </td>
+            <td>
+                Shumo Chu
+            </td>
+            <td>
+                9:00 PM, Nov. 16 (New York Time)
+            </td>
+            <td>
+                TBD
+            </td>
+            <td>
+                TBD
+            </td>
+        </tr>
+        <tr>
+            <td>
+                3. Circom Workshop #3
+            </td>
+            <td>
+                Shumo Chu
+            </td>
+            <td>
+                9:00 PM, Nov. 18 (New York Time)
+            </td>
+            <td>
+                TBD
+            </td>
+            <td>
+                TBD
+            </td>
+        </tr>
+        <tr>
+            <td>
+                4. Applied ZKP Usecase: Semaphore
+            </td>
+            <td>
+                TBD
+            </td>
+            <td>
+                9:00 PM, Nov. 21 (New York Time)
+            </td>
+            <td>
+                TBD
+            </td>
+            <td>
+                TBD
+            </td>
+        </tr>
+        <tr>
+            <td>
+                5. ZKP Security
+            </td>
+            <td>
+                Jon Stephens (CTO, Veridise)
+            </td>
+            <td>
+                9:00 PM, Nov. 23 (New York Time)
+            </td>
+            <td>
+                TBD
+            </td>
+            <td>
+                TBD
+            </td>
         </tr>    
 </table>
 
