@@ -120,7 +120,28 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
             <td>
                 TBD
             </td>
-        </tr>    
+        </tr>
+        <tr>
+            <td>
+                6. Circom Internals
+            </td>
+            <td>
+                Clara Rodriguez (Iden3)
+            </td>
+            <td>
+                TBD
+            </td>
+            <td>
+                TBD
+            </td>
+            <td>
+                TBD
+            </td>
+            <td>
+                TBD
+            </td>
+        </tr>
+    </tbody>        
 </table>
 
 
