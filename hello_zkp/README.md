@@ -23,7 +23,7 @@ node ./hello_zkp_js/generate_witness.js ./hello_zkp_js/hello_zkp.wasm input.json
 ### Trusted Setup using SnarkJS
 #### Power of Tau (Phase 1)
 First, we start a new "powers of tau" ceremony:
-``bash
+```bash
 snarkjs powersoftau new bn128 12 pot12_0000.ptau -v
 ```
 Then, we make our own contribution:
