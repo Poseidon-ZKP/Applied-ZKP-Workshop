@@ -9,6 +9,7 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
 ## Prerequisites 
 
 * Install [Circom 2.0](https://docs.circom.io/getting-started/installation/)
+* Install [SnarkJS](https://github.com/iden3/snarkjs)
 * [things to know before start](https://learn.0xparc.org/materials/circom/prereq-materials/prereq-understanding/)
 
 ## Workshop Schedule
