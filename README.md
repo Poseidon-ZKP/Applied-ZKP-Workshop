@@ -32,10 +32,10 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
                 9:00 PM, Nov. 14 (New York Time)
             </td>
             <td>
-                TBD
+                <a herf="https://drive.google.com/file/d/1GsQsoHt5MCNfTRwK_8lvAHBuHEafUQtN/view?usp=share_link"> recording </a>
             </td>
             <td>
-                TBD
+                <a href="./slides/1.pdf"> slides </a>
             </td>
             <td>
                 <a href="./hello-zkp">hello-zkp</a>
