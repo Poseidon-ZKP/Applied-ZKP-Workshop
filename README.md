@@ -49,26 +49,6 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
                 Shumo Chu
             </td>
             <td>
-                9:00 PM, Nov. 16 (New York Time)
-            </td>
-            <td>
-                TBD
-            </td>
-            <td>
-                TBD
-            </td>
-            <td>
-                TBD
-            </td>
-        </tr>
-        <tr>
-            <td>
-                3. Circom Workshop #3
-            </td>
-            <td>
-                Shumo Chu
-            </td>
-            <td>
                 9:00 PM, Nov. 18 (New York Time)
             </td>
             <td>
@@ -83,10 +63,10 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
         </tr>
         <tr>
             <td>
-                4. Applied ZKP Usecase: Semaphore
+                3. Applied ZKP Usecase: Semaphore
             </td>
             <td>
-                TBD
+                Andy Guzman (Ethereum Foundation)
             </td>
             <td>
                 9:00 PM, Nov. 21 (New York Time)
@@ -103,7 +83,7 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
         </tr>
         <tr>
             <td>
-                5. ZKP Security
+                4. ZKP Security
             </td>
             <td>
                 Jon Stephens (CTO, Veridise)
