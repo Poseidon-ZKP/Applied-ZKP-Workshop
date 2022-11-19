@@ -1,7 +1,7 @@
 pragma circom 2.1.0;
 
-include "../../node_modules/circomlib/circuits/poseidon.circom";
-include "../common/tree.circom";
+include "../node_modules/circomlib/circuits/poseidon.circom";
+include "./tree.circom";
 
 template CalculateIdentityCommitment() {
     signal input identityTrapdoor;
