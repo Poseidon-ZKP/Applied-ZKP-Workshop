@@ -58,7 +58,7 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
                 <a href="./slides/2.pdf"> slides </a>
             </td>
             <td>
-                <a herf="./simple_mul"> simple_mul </a>
+                <a href="./simple_mul"> simple_mul </a>
             </td>
         </tr>
          <tr>
