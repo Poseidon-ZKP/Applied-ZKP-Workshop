@@ -2,7 +2,10 @@
   "name": "hardhat-project",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
-    "hardhat": "^2.12.2"
+    "@semaphore-protocol/group": "^2.6.1",
+    "@semaphore-protocol/identity": "^2.6.1",
+    "hardhat": "^2.12.2",
+    "log4js": "^6.7.0"
   },
   "dependencies": {
     "circomlib": "^2.0.5",
