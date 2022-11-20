@@ -32,7 +32,7 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
                 9:00 PM, Nov. 14 (New York Time)
             </td>
             <td>
-                <a href="https://drive.google.com/file/d/1GsQsoHt5MCNfTRwK_8lvAHBuHEafUQtN/view?usp=share_link"> video </a>
+                <a href="https://youtu.be/kHDdMIYHgLg"> video </a>
             </td>
             <td>
                 <a href="./slides/1.pdf"> slides </a>
@@ -49,7 +49,27 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
                 Shumo Chu
             </td>
             <td>
-                9:00 PM, Nov. 18 (New York Time)
+                9:00 PM, Nov. 19 (New York Time)
+            </td>
+            <td>
+                <a href="https://youtu.be/F-cXh30S0ho"> video </a>
+            </td>
+            <td>
+                <a href="./slides/2.pdf"> slides </a>
+            </td>
+            <td>
+                <a herf="./simple_mul"> simple_mul </a>
+            </td>
+        </tr>
+         <tr>
+            <td>
+                3. Circom Workshop #3: Building zkDApp using Circom
+            </td>
+            <td>
+                Shumo Chu
+            </td>
+            <td>
+                9:00 PM, Nov. 21 (New York Time)
             </td>
             <td>
                 TBD
@@ -63,13 +83,13 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
         </tr>
         <tr>
             <td>
-                3. Applied ZKP Usecase: Semaphore
+                4. Applied ZKP Usecase: Semaphore
             </td>
             <td>
                 Andy Guzman (Ethereum Foundation)
             </td>
             <td>
-                9:00 PM, Nov. 21 (New York Time)
+                9:00 PM, Nov. 23 (New York Time)
             </td>
             <td>
                 TBD
@@ -89,7 +109,7 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
                 Jon Stephens (CTO, Veridise)
             </td>
             <td>
-                9:00 PM, Nov. 23 (New York Time)
+                9:00 PM, Nov. 25 (New York Time)
             </td>
             <td>
                 TBD
@@ -103,7 +123,7 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
         </tr>
         <tr>
             <td>
-                6. Circom Internals
+                5. Circom Internals
             </td>
             <td>
                 Clara Rodriguez (Iden3)
