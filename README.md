@@ -72,13 +72,13 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
                 9:00 PM, Nov. 21 (New York Time)
             </td>
             <td>
-                TBD
+                <a href="https://youtu.be/0ya5bVVLP4M"> video </a>
             </td>
             <td>
-                TBD
+                <a href="3.pdf"> slides </a>
             </td>
             <td>
-                TBD
+                <a href="./zkDApp"> zkDApp </a>
             </td>
         </tr>
         <tr>
