@@ -153,6 +153,7 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
 ### Circom Related Tools
 * [hardhat-circom](https://github.com/projectsophon/hardhat-circom): Hardhat plugin to integrate Circom and SnarkJS into your build process.
 * [zkrepl](https://zkrepl.dev/): an online Circom IDE.
+* [circomsepc](https://github.com/trailofbits/circomspect): A static analyzer for Circom
 
 ### Documentations
 * [Circom Documentation](https://docs.circom.io)
