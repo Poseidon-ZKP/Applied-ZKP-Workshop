@@ -43,7 +43,7 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
         </tr>
         <tr>
             <td>
-                2. Circom Workshop #2
+                2. Deep Dive into Circom Lang
             </td>
             <td>
                 Shumo Chu
@@ -63,7 +63,7 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
         </tr>
          <tr>
             <td>
-                3. Circom Workshop #3: Building zkDApp using Circom
+                3. Building zkDApp using Circom and Hardhat
             </td>
             <td>
                 Shumo Chu

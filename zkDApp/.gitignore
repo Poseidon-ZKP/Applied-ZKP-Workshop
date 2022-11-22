@@ -1,0 +1,9 @@
+node_modules
+artifacts
+cache
+*.r1cs
+*.zkey
+*.sym
+*.wasm
+*generate_witness.js
+*witness_calculator.js
