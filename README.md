@@ -103,7 +103,7 @@ Applied ZKP Workshop is a two-week online workshop focus on ZK Applications (a.k
         </tr>
         <tr>
             <td>
-                4. ZKP Security
+                5. ZKP Security
             </td>
             <td>
                 Jon Stephens (CTO, Veridise)
