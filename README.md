@@ -112,13 +112,13 @@ Applied ZKP Workshop is a 3-week online workshop focus on ZK Applications (a.k.a
                 9:00 PM, Nov. 25 (New York Time)
             </td>
             <td>
-                TBD
+                <a href="https://youtu.be/IM1J0aeTNu8"> video </a>
             </td>
             <td>
-                TBD
+                <a href="./slides/5.pdf"> slides </a>
             </td>
             <td>
-                TBD
+                <a href="https://github.com/Veridise/Picus"> code </a>
             </td>
         </tr>
         <tr>
