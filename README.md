@@ -98,7 +98,7 @@ Applied ZKP Workshop is a 3-week online workshop focus on ZK Applications (a.k.a
                  <a href="./slides/4.pdf"> slides </a>
             </td>
             <td>
-                N.A.
+                <a href="https://github.com/semaphore-protocol/semaphore"> repo </a>
             </td>
         </tr>
         <tr>
