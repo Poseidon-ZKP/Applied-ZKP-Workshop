@@ -109,7 +109,7 @@ Applied ZKP Workshop is a 3-week online workshop focus on ZK Applications (a.k.a
                 Jon Stephens (CTO, Veridise)
             </td>
             <td>
-                9:00 PM, Nov. 25 (New York Time)
+                9:00 PM, Nov. 28 (New York Time)
             </td>
             <td>
                 <a href="https://youtu.be/IM1J0aeTNu8"> video </a>
@@ -118,12 +118,12 @@ Applied ZKP Workshop is a 3-week online workshop focus on ZK Applications (a.k.a
                 <a href="./slides/5.pdf"> slides </a>
             </td>
             <td>
-                <a href="https://github.com/Veridise/Picus"> code </a>
+                <a href="https://github.com/Veridise/Picus"> repo </a>
             </td>
         </tr>
         <tr>
             <td>
-                5. Circom Internals
+                6. Circom Internals
             </td>
             <td>
                 Clara Rodriguez (Iden3)
