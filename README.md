@@ -126,10 +126,10 @@ Applied ZKP Workshop is a 3-week online workshop focus on ZK Applications (a.k.a
                 6. Circom Internals
             </td>
             <td>
-                Clara Rodriguez (Iden3)
+                Clara Rodriguez/Miguel Isabel (Iden3/UCM)
             </td>
             <td>
-                TBD
+                10:00 AM, Dec. 7 (New York Time)                
             </td>
             <td>
                 TBD
